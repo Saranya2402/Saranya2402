@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front end developer
 -------------------
 
-A dedicated tech enthusiast who embarked on a coding journey over 8 years ago. Started coding exploration by delving deep into the intricacies of backend development(dotnet). However, the allure of front-end development was where my true passion was kindled. The ever-evolving landscape of web technologies became my playground, and React JS emerged as my artistic muse. When I'm not immersed in the world of coding, you'll often find me immersed in the pages of a book. My passion for learning extends beyond code, enriching my perspectives and infusing creativity into my work.
+A dedicated tech enthusiast who embarked on a coding journey over 8 years ago. ## Coding Odyssey 🚀 I started my coding exploration by delving deep into the intricacies of backend development(dotnet). ## Passion for Front-End Magic ✨ However, the allure of front-end development was where my true passion was kindled. The ever-evolving landscape of web technologies became my playground, and React JS emerged as my artistic muse. ## Beyond the Code 📚 When I'm not immersed in the world of coding, you'll often find me immersed in the pages of a book. My passion for learning extends beyond code, enriching my perspectives and infusing creativity into my work.
 
 *   🌍  I'm based in Abu Dhabi
 *   ✉️  You can contact me at [saranyarajkesh@gmail.com](mailto:saranyarajkesh@gmail.com)
@@ -24,7 +24,7 @@ ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON 
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
                     </picture>
                     </a>
-                      <a href="https://www.linkedin.com/in/saranya-s-80851723/" target="_blank" rel="noreferrer">
+                      <a href="https://www.linkedin.com/in/https:/saranya2402/" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="undefined" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
